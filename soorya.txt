@@ -1,2 +1,6 @@
 first
+
 edit done in feature branch
+
+modification in master 
+
