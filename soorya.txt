@@ -4,4 +4,10 @@ edit done in feature branch
 
 modification in master 
 
+
 modification in feature branch after one merge
+
+brought master and feature(ff merge)and made this modificatio
+
+modifying on master branch
+
