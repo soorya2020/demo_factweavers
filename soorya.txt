@@ -1,3 +1,2 @@
 first
 edit done in feature branch
-second edit in feature 
