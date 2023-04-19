@@ -4,3 +4,4 @@ edit done in feature branch
 
 modification in master 
 
+modification in feature branch after one merge
